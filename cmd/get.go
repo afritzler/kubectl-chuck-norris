@@ -123,6 +123,7 @@ var facts = []string{
 	"Chuck Norris CAN believe it's not butter.",
 	"The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.",
 	"Chuck Norris can start a fire by staring at wood.",
+	"Chuck Norris doesn't need containers, he ships with a round-house kick.",
 }
 
 // getCmd represents the get command

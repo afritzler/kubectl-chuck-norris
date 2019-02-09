@@ -1,13 +1,13 @@
 # kubectl-chuck-norris
 
-Roundhouse kicking your Kubernetes cluster with the Chuck Norris `kubectl` plugin.
+Round-house kicking your Kubernetes cluster with the Chuck Norris `kubectl` plugin.
 
 ```bash
 kubectl chucknorris get fact
-Chuck Norris's computer has no 'backspace' button, Chuck Norris doesn't make mistakes.
+Chuck Norris doesn't need containers, he ships with a round-house kick.
 ```
 
-Feel free to contribute and create a PR!
+Feel free to contribute yours [here](https://github.com/afritzler/kubectl-chuck-norris/blob/master/cmd/get.go) and create a PR!
 
 ## Installation
 
