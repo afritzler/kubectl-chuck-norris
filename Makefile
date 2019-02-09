@@ -3,10 +3,11 @@ GOBUILD=$(GOCMD) build
 GOCLEAN=$(GOCMD) clean
 GOTEST=$(GOCMD) test
 GOGET=$(GOCMD) get
+ARCH=amd64
 BINARY_NAME=kubectl-chucknorris
-BINARY_UNIX=$(BINARY_NAME)_linux
-BINARY_WIN=$(BINARY_NAME)_win
-BINARY_DARWIN=$(BINARY_NAME)_darwin
+BINARY_UNIX=$(BINARY_NAME)_linux_$(ARCH)
+BINARY_WIN=$(BINARY_NAME)_win_$(ARCH).exe
+BINARY_DARWIN=$(BINARY_NAME)_darwin_$(ARCH)
 
 all: test build
 all-cross: build-linux build-win build-darwin

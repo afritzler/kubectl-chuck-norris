@@ -27,7 +27,7 @@ var facts = []string{
 	"Chuck Norris can kill two stones with one bird.",
 	"Once a cobra bit Chuck Norris' leg. After five days of excruciating pain, the cobra died.",
 	"When Chuck Norris was in middle school, his English teacher assigned an essay: 'What is courage?' He received an A+ for turning in a blank page with only his name at the top.",
-	"Chuck Norris can pick oranges from an apple tree and make the best lemonade youve ever tasted.",
+	"Chuck Norris can pick oranges from an apple tree and make the best lemonade you've ever tasted.",
 	"Chuck Norris can kill your imaginary friends.",
 	"Chuck Norris can hear sign language.",
 	"Chuck Norris once went to mars. Thats why there are no signs of life.",

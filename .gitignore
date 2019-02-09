@@ -1,4 +1,4 @@
 kubectl-chucknorris
-kubectl-chucknorris_darwin
-kubectl-chucknorris_linux
-kubectl-chucknorris_win
+kubectl-chucknorris_linux_amd64
+kubectl-chucknorris_win_amd64.exe
+kubectl-chucknorris_darwin_amd64
