@@ -24,7 +24,7 @@ curl -LO https://github.com/afritzler/kubectl-chuck-norris/releases/download/v1/
 ### MacOS
 
 ```bash
-curl -LO https://github.com/afritzler/kubectl-chuck-norris/releases/download/v1/kubectl-chucknorris_linux_amd64 \
+curl -LO https://github.com/afritzler/kubectl-chuck-norris/releases/download/v1/kubectl-chucknorris_darwin_amd64 \
 && sudo mv kubectl-chucknorris_darwin_amd64 /usr/local/bin/kubectl-chucknorris \
 && sudo chmod +x /usr/local/bin/kubectl-chucknorris
 ```
